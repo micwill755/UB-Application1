@@ -43,17 +43,6 @@ ENV/
 ehthumbs.db
 Thumbs.db
 
-# Data files
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
-*.xz
-*.zip
-*.tar
-*.log
-
 # ML specific
 models/
 checkpoints/
